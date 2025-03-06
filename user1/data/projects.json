@@ -1,7 +1,7 @@
 [
     {
       "name": "Awesome Project",
-      "description": "Building something cool",
-      "repo": "https://github.com/user1/awesome-project"
+      "repo": "https://github.com/user1/awesome-project",
+      "description": "Building something cool"
     }
 ]
